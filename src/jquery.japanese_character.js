@@ -1,5 +1,5 @@
 /*!
- * jQuery JapaneseCharacter Plugin v1.0.0
+ * jQuery JapaneseCharacter Plugin v1.0.1
  * https://github.com/criticalbreak5/japanese_character
  *
  * Copyright 2014 criticalbreak5's
