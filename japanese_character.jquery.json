@@ -4,8 +4,8 @@
     "description": "This plug-in checks the Japanese..",
     "keywords": [
         "JapaneseCharacter",
-        "JIS X 0201",
-        "JIS X 0208",
+        "JISX0201",
+        "JISX0208",
         "kana",
         "kanji",
         "criticalbreak5"
